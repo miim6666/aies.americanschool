@@ -18,7 +18,7 @@ dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, summary,
+, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
     margin:0;
     padding:0;
@@ -352,7 +352,7 @@ footer{
   margin: 0 auto;
   align-items: center;
   text-align: center;
-  background-color:#64B7D7;
+background-color:rgb(66, 142, 172);
   height: 40px;
 }
 
