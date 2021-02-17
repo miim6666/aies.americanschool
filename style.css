@@ -811,6 +811,10 @@ opacity: 0;
 
 @media screen and (max-width: 600px) {
   /* user-select: ; */
+    
+ h3{
+     font-size: 45px;
+    }
 
 .keyvisualcontent{
   left: 33%;
