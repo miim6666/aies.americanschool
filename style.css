@@ -806,3 +806,31 @@ opacity: 0;
 .toggle .line3{
   transform: rotate(45deg) translate(-5px,-6px);
 }
+
+
+
+@media screen and (max-width: 600px) {
+  /* user-select: ; */
+
+.keyvisualcontent{
+  left: 33%;
+  top: 33%;
+  width: 300px;
+  height: 260px;
+}
+
+.keyvisualcontent h2{
+  font-size: 30px;
+  /* font-weight: ; */
+}
+
+.keyvisualcontent p{
+font-size: 15px;
+}
+
+.keyvisualcontent .notice{
+  font-size: 15px;
+}
+
+}
+
