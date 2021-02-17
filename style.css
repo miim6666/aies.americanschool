@@ -836,6 +836,19 @@ font-size: 15px;
 }
 
 h1{
-    left:2%;
-    }
+  left:7%;
 }
+
+.event li{
+  font-size: 30px;
+}
+
+.event p{
+  font-size: 20px;
+}
+
+header img{
+  width: 350px;
+}
+}
+
