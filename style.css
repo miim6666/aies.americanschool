@@ -130,9 +130,9 @@ header {
 }
 
 header img {
-  width: 400px;
-height: 70px;
-padding-top: 19px;
+  width: 250px;
+height: 107px;
+/* padding-top: 19px; */
 }
 
 h1{
@@ -142,8 +142,9 @@ h1{
 .inner1 {
   /* height: 50%; */
   width: 100%;
-  padding-bottom: 90px;
-  background-color:#64B7D7;
+  padding-bottom: 0px;
+  background-color: white;
+  /* background-color:#64B7D7; */
   margin: 0 auto;
 }
 
@@ -652,6 +653,8 @@ iframe{
 }
 
 @media screen and (max-width: 1000px) {
+
+
   
 h3{
   font-size: 55px;
@@ -683,7 +686,9 @@ h3{
   width: 30px;
   height: 3px;
   margin: 5px;
-  background-color: white;
+  background-color: #64B7D7;
+
+  /* background-color: white; */
   transition: all 0.5s ease;
     }
 
@@ -725,6 +730,7 @@ transition: transform 1s ease-in-out;
 }
 
 header{
+  background-color: white;
   height: 150px;
 }
 
@@ -739,7 +745,7 @@ h1{
 }
 
 header img{  
-  height: 76px;
+  height: 100px;
 }
 
 .inner1 {
@@ -848,7 +854,7 @@ h1{
 }
 
 header img{
-  width: 350px;
+  /* width: 300px; */
 }
     
 .pic6 {
@@ -866,4 +872,3 @@ header img{
   width: 40%;
 }
 }
-
