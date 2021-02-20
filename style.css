@@ -640,6 +640,12 @@ iframe{
 
 
 @media screen and (max-width: 1190px) {
+
+.tip{
+  background-color: rgb(66, 142, 172);
+  height: 20px;
+  /* z-index: 30; */
+}
   
   .keyvisualcontent {
     top: 30%;
@@ -698,8 +704,10 @@ background-color: seagreen;
 }
 
 nav{
-  background-color: white;
+  /* background-color: #ff9; */
+  /* background-color: red; */
   height: 0px;
+  /* padding-top: 2px; */
   /* line-height: 0px; */
 /* position: absolute; */
 /* left: 100%; */
