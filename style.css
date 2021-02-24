@@ -575,7 +575,7 @@ button:hover{
   height: 100%;
   color: white;
   font-size: 18px;
-display: flex;
+/* display: flex; */
 /* margin: 20px 0; */
 padding: 20px 0 60px 0;
 text-align: center;
@@ -588,20 +588,27 @@ text-align: center;
 
 .school{
   /* height: 100%; */
-  width: 33.33333%;
+  /* width: 33.33333%; */
   border-right: 4px solid white;
   /* background-color: rgb(41, 230, 236); */
+  background-color:#64B7D7;
+
 }
 .hills{
   /* height: 100%; */
-  width: 33.33333%;
+  /* width: 33.33333%; */
   border-right: 4px solid white;
+  background-color:#64B7D7;
+
 }
 
 .aies{
+  /* border-bottom: 1px solid white; */
+  background-color:#64B7D7;
+  /* background-color: rgb(66, 142, 172); */
   /* align-items: center; */
   /* height: 100%; */
-  width: 33.33333%;
+  /* width: 33.33333%; */
 }
 
 iframe{
@@ -615,17 +622,17 @@ iframe{
 
 .pic7{
   height: 60%;
-  width: 40%;
+  width: 15%;
 }
 
 .pic8{
   height: 60%;
-  width: 40%;
+  width: 15%;
 }
 
 .pic6{
   height: 60%;
-  width: 40%;
+  width: 15%;
 }
 
 .map{
@@ -633,6 +640,12 @@ iframe{
   color: white;
   font-size: 21px;
 }
+
+.added{
+  font-size: 35px;
+  /* border: 1px solid white; */
+}
+
 
 
 
